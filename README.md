@@ -1,4 +1,4 @@
-# EE_2000_2011_2019
+# Supporting code scripts for paper on modelling urban sprawl with remotely sensed indicators by Najmeh Mozaffaree Pour et al. 
 Links to Google Earth Engine code scripts for remote sensing-based predictors: 2000, 2011, and 2019 years, territory of Estonia + 10 km buffer
 Google Earth Engine Toolbox (GEET) library by Eduardo Ribeiro Lacerda https://github.com/sacridini/GEET/blob/master/README.md was used to calculate spectral indices
 
